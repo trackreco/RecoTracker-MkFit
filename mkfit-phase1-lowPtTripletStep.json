@@ -6,6 +6,7 @@
  "m_pre_bkfit_filter_name": "",
  "m_post_bkfit_filter_name": "",
  "m_duplicate_cleaner_name": "phase1:clean_duplicates_sharedhits_pixelseed",
+ "m_default_track_scorer_name": "phase1:default",
  "m_requires_seed_hit_sorting": false,
  "m_backward_search": true,
  "m_backward_drop_seed_hits": false,
@@ -149,6 +150,7 @@
      "m_layer": 71
     }
    ],
+   "m_track_scorer_name": "",
    "m_region": 0,
    "m_fwd_search_pickup": 2,
    "m_bkw_fit_last": 0,
@@ -292,6 +294,7 @@
      "m_layer": 71
     }
    ],
+   "m_track_scorer_name": "",
    "m_region": 1,
    "m_fwd_search_pickup": 2,
    "m_bkw_fit_last": 0,
@@ -354,6 +357,7 @@
      "m_layer": 17
     }
    ],
+   "m_track_scorer_name": "",
    "m_region": 2,
    "m_fwd_search_pickup": 2,
    "m_bkw_fit_last": 0,
@@ -497,6 +501,7 @@
      "m_layer": 44
     }
    ],
+   "m_track_scorer_name": "",
    "m_region": 3,
    "m_fwd_search_pickup": 2,
    "m_bkw_fit_last": 0,
@@ -595,6 +600,7 @@
      "m_layer": 44
     }
    ],
+   "m_track_scorer_name": "",
    "m_region": 4,
    "m_fwd_search_pickup": 2,
    "m_bkw_fit_last": 0,

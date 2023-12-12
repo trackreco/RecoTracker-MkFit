@@ -32,6 +32,7 @@
   "chi2Cut_min": 15.0,
   "chi2CutOverlap": 3.5,
   "pTCutOverlap": 0.0,
+  "recheckOverlap": false,
   "minHitsQF": 4,
   "minPtCut": 0.0,
   "maxClusterSize": 8
@@ -44,6 +45,7 @@
   "chi2Cut_min": 15.0,
   "chi2CutOverlap": 3.5,
   "pTCutOverlap": 0.0,
+  "recheckOverlap": false,
   "minHitsQF": 4,
   "minPtCut": 0.0,
   "maxClusterSize": 8

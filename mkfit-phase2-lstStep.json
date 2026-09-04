@@ -5,7 +5,7 @@
  "m_seed_partitioner_name": "phase2:1",
  "m_pre_bkfit_filter_name": "phase1:qfilter_n_hits_pixseed",
  "m_post_bkfit_filter_name": "phase1:qfilter_n_hits_pixseed",
- "m_duplicate_cleaner_name": "phase1:clean_duplicates_sharedhits_pixelseed",
+ "m_duplicate_cleaner_name": "phase2:clean_duplicates_sharedhits_minicone",
  "m_default_track_scorer_name": "phase1:default",
  "m_requires_seed_hit_sorting": false,
  "m_backward_search": true,
